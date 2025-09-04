@@ -1,3 +1,6 @@
+Ця діаграма демонструє:
+- Використання activation boxes (+ / -) для відображення періоду обробки  
+
 ```mermaid
 sequenceDiagram
     participant User
