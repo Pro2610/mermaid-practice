@@ -1,3 +1,5 @@
+Найпростіший приклад взаємодії між двома учасниками.
+
 # mermaid-practice
 ```mermaid
 sequenceDiagram
