@@ -1,6 +1,6 @@
 Найпростіший приклад взаємодії між двома учасниками.
 
-mermaid 
+```mermaid 
 sequenceDiagram 
 Alice->>Bob: Hello 
 Bob-->>Alice: Hi
