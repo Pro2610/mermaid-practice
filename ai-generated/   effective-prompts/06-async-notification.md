@@ -36,9 +36,11 @@ sequenceDiagram
     deactivate Queue
     
     CRM->>CRM: Оновлює статус платежу
+    
     Note over CRM: Статус платежу оновлено в системі
     
     deactivate CRM
+
 
 Діаграма показує процес асинхронного повідомлення через чергу:
 
