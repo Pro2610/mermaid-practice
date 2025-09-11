@@ -11,6 +11,7 @@ cardholder оплачує;
 показ/чек
 
 
+
 ```mermaid
 sequenceDiagram
     title Standalone POS — Authorization Flow (Terminal ↔ Provider)
