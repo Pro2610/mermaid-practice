@@ -1,8 +1,13 @@
 "Sequence Diagram - Standalone POS Authorization Flow"
+
 Merchant вводить суму на терміналі;
+
 cardholder оплачує;
+
 термінал надсилає авторизацію через gateway до provider;
+
 відповідь повертається на термінал;
+
 показ/чек
 
 
